@@ -52,23 +52,23 @@ const DropdownItem = ({ label, children, addon, icon: Icon, unstyled, ...props }
                 <div
                     className={cx(
                         "relative flex items-center rounded-md px-2.5 py-2 outline-focus-ring transition duration-100 ease-linear",
-                        !state.isDisabled && "group-hover:bg-accent",
-                        state.isFocused && "bg-accent",
+                        !state.isDisabled && "group-hover:bg-primary_hover",
+                        state.isFocused && "bg-primary_hover",
                         state.isFocusVisible && "outline-2 -outline-offset-2",
                     )}
                 >
                     {Icon && (
                         <Icon
                             aria-hidden="true"
-                            className={cx("mr-2 size-4 shrink-0 stroke-[2.25px]", state.isDisabled ? "text-fg-disabled" : "text-muted-foreground")}
+                            className={cx("mr-2 size-4 shrink-0 stroke-[2.25px]", state.isDisabled ? "text-fg-disabled" : "text-fg-quaternary")}
                         />
                     )}
 
                     <span
                         className={cx(
                             "grow truncate text-sm font-semibold",
-                            state.isDisabled ? "text-disabled" : "text-foreground",
-                            state.isFocused && "text-foreground",
+                            state.isDisabled ? "text-disabled" : "text-secondary",
+                            state.isFocused && "text-secondary_hover",
                         )}
                     >
                         {label || (typeof children === "function" ? children(state) : children)}
@@ -77,8 +77,8 @@ const DropdownItem = ({ label, children, addon, icon: Icon, unstyled, ...props }
                     {addon && (
                         <span
                             className={cx(
-                                "ml-3 shrink-0 rounded px-1 py-px text-xs font-medium ring-1 ring-border ring-inset",
-                                state.isDisabled ? "text-disabled" : "text-muted-foreground",
+                                "ml-3 shrink-0 rounded px-1 py-px text-xs font-medium ring-1 ring-secondary ring-inset",
+                                state.isDisabled ? "text-disabled" : "text-quaternary",
                             )}
                         >
                             {addon}
@@ -114,7 +114,7 @@ const DropdownPopover = (props: DropdownPopoverProps) => {
             {...props}
             className={(state) =>
                 cx(
-                    "w-62 origin-(--trigger-anchor-point) overflow-auto rounded-lg bg-card shadow-lg ring-1 ring-border will-change-transform",
+                    "w-62 origin-(--trigger-anchor-point) overflow-auto rounded-lg bg-primary shadow-lg ring-1 ring-secondary_alt will-change-transform",
                     state.isEntering &&
                         "duration-150 ease-out animate-in fade-in placement-right:slide-in-from-left-0.5 placement-top:slide-in-from-bottom-0.5 placement-bottom:slide-in-from-top-0.5",
                     state.isExiting &&
@@ -129,7 +129,7 @@ const DropdownPopover = (props: DropdownPopoverProps) => {
 };
 
 const DropdownSeparator = (props: AriaSeparatorProps) => {
-    return <AriaSeparator {...props} className={cx("my-1 h-px w-full bg-border", props.className)} />;
+    return <AriaSeparator {...props} className={cx("my-1 h-px w-full bg-border-secondary", props.className)} />;
 };
 
 const DropdownDotsButton = (props: AriaButtonProps & RefAttributes<HTMLButtonElement>) => {
@@ -139,8 +139,8 @@ const DropdownDotsButton = (props: AriaButtonProps & RefAttributes<HTMLButtonEle
             aria-label="Open menu"
             className={(state) =>
                 cx(
-                    "cursor-pointer rounded-md text-muted-foreground outline-focus-ring transition duration-100 ease-linear",
-                    (state.isPressed || state.isHovered) && "text-foreground",
+                    "cursor-pointer rounded-md text-fg-quaternary outline-focus-ring transition duration-100 ease-linear",
+                    (state.isPressed || state.isHovered) && "text-fg-quaternary_hover",
                     (state.isPressed || state.isFocusVisible) && "outline-2 outline-offset-2",
                     typeof props.className === "function" ? props.className(state) : props.className,
                 )

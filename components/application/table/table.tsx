@@ -2,7 +2,7 @@
 
 import type { ComponentPropsWithRef, HTMLAttributes, ReactNode, Ref, TdHTMLAttributes, ThHTMLAttributes } from "react";
 import { createContext, isValidElement, useContext } from "react";
-import { ArrowDown, ChevronSelectorVertical, Copy01, Edit01, HelpCircle, Trash01 } from "@untitledui/icons";
+import { ArrowDown, ChevronSelectorVertical, HelpCircle } from "@untitledui/icons";
 import type {
     CellProps as AriaCellProps,
     ColumnProps as AriaColumnProps,
@@ -23,28 +23,24 @@ import {
 } from "react-aria-components";
 import { Badge } from "@/components/base/badges/badges";
 import { Checkbox } from "@/components/base/checkbox/checkbox";
-import { Dropdown } from "@/components/base/dropdown/dropdown";
 import { Tooltip, TooltipTrigger } from "@/components/base/tooltip/tooltip";
 import { cx } from "@/lib/utils/cx";
+import {SearchForm} from "@/components/search-form";
 
-export const TableRowActionsDropdown = () => (
-    <Dropdown.Root>
-        <Dropdown.DotsButton />
 
-        <Dropdown.Popover className="w-min">
-            <Dropdown.Menu>
-                <Dropdown.Item icon={Edit01}>
-                    <span className="pr-4">Edit</span>
-                </Dropdown.Item>
-                <Dropdown.Item icon={Copy01}>
-                    <span className="pr-4">Copy link</span>
-                </Dropdown.Item>
-                <Dropdown.Item icon={Trash01}>
-                    <span className="pr-4">Delete</span>
-                </Dropdown.Item>
-            </Dropdown.Menu>
-        </Dropdown.Popover>
-    </Dropdown.Root>
+interface TableRowActionsDropdownProps {
+  query?: string;
+  placeholder?: string;
+  onQueryChange?: (value: string) => void;
+}
+
+export const TableRowActionsDropdown = ({ query, placeholder, onQueryChange }: TableRowActionsDropdownProps) => (
+  <SearchForm
+    className="w-full sm:ml-auto sm:w-auto"
+    value={query}
+    placeholder={placeholder}
+    onValueChange={onQueryChange}
+  />
 );
 
 const TableContext = createContext<{ size: "sm" | "md" }>({ size: "md" });

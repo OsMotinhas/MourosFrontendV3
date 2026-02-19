@@ -13,7 +13,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/abraham-baker?fm=webp&q=80&w=100",
       "numeroSocio": "001",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "933061555",
+      "tipoSangue": "B+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": false
     },
     {
       "name": "João Anibal Gonçalves de Sousa",
@@ -28,7 +35,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/adem-lane?fm=webp&q=80&w=100",
       "numeroSocio": "002",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "937445240",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": false,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Manuel da Silva Alves",
@@ -43,7 +57,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/adil-floyd?fm=webp&q=80&w=100",
       "numeroSocio": "003",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "966160324",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "José Alvaro da Cruz Viana",
@@ -58,7 +79,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/alec-whitten?fm=webp&q=80&w=100",
       "numeroSocio": "004",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "961818236",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": false,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Antonino Viana Barbosa",
@@ -73,7 +101,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/ali-mahdi?fm=webp&q=80&w=100",
       "numeroSocio": "005",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "916614750",
+      "tipoSangue": "A+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "José Rosário Barros Silva",
@@ -88,7 +123,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/ammar-foley?fm=webp&q=80&w=100",
       "numeroSocio": "006",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "34687504729",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "José Magalhães Oliveira",
@@ -103,7 +145,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/ashton-blackwell?fm=webp&q=80&w=100",
       "numeroSocio": "007",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "962521698",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Fernando João da Cruz Barros",
@@ -118,7 +167,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/ashwin-santiago?fm=webp&q=80&w=100",
       "numeroSocio": "008",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "33681093947",
+      "tipoSangue": "O+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Nuno Augusto Gomes Pereira",
@@ -133,7 +189,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/aston-hood?fm=webp&q=80&w=100",
       "numeroSocio": "009",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "969005213",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Pedro Manuel Rufino de Sousa",
@@ -148,7 +211,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/benedict-doherty?fm=webp&q=80&w=100",
       "numeroSocio": "010",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "969061177",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": false,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Armindo Fernando P. Fernandes",
@@ -163,7 +233,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/blake-riley?fm=webp&q=80&w=100",
       "numeroSocio": "011",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "966613425",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": false,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "António Pedro Oliveira Carvalhosa",
@@ -178,7 +255,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/byron-robertson?fm=webp&q=80&w=100",
       "numeroSocio": "012",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "969065004",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": false,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "João Miguel Oliveira Braga",
@@ -193,7 +277,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/cameron-yang?fm=webp&q=80&w=100",
       "numeroSocio": "013",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "965540887",
+      "tipoSangue": "A+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Adriano Bandeira da Costa",
@@ -208,7 +299,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/clifford-jennings?fm=webp&q=80&w=100",
       "numeroSocio": "014",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "968271263",
+      "tipoSangue": "A+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Cláudio Filipe Nobre  Belo",
@@ -223,7 +321,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/cohen-lozano?fm=webp&q=80&w=100",
       "numeroSocio": "015",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "964142739",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "João Martins Fernandes",
@@ -238,7 +343,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/danyal-lester?fm=webp&q=80&w=100",
       "numeroSocio": "016",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "966213626",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Luis Silva Da Rocha",
@@ -253,7 +365,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/dillan-nguyen?fm=webp&q=80&w=100",
       "numeroSocio": "017",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "917257865",
+      "tipoSangue": "RH+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Amândio Batista Freire",
@@ -268,7 +387,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/drew-cano?fm=webp&q=80&w=100",
       "numeroSocio": "018",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "963436047",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "José Augusto Barros Lopes",
@@ -283,7 +409,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/eduard-franz?fm=webp&q=80&w=100",
       "numeroSocio": "019",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "963024265",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Pedro Tiago Rocha Fernandes",
@@ -298,7 +431,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/ethan-campbell?fm=webp&q=80&w=100",
       "numeroSocio": "020",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "916176840",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": false,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Eloi Pinto Amorim",
@@ -313,7 +453,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/ethan-valdez?fm=webp&q=80&w=100",
       "numeroSocio": "021",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "966123943",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Cristiano Manuel Fernandes Baptista",
@@ -328,7 +475,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/fergus-gray?fm=webp&q=80&w=100",
       "numeroSocio": "022",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "965249627",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "José Carlos Caridade Barroso",
@@ -343,7 +497,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/frank-whitaker?fm=webp&q=80&w=100",
       "numeroSocio": "023",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "33744568505",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "João Ricardo Martins Fernandes",
@@ -358,7 +519,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/franklin-mays?fm=webp&q=80&w=100",
       "numeroSocio": "024",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "967490426",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": false,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Vitor Manuel de Jesus Rodrigues",
@@ -373,7 +541,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/harry-bender?fm=webp&q=80&w=100",
       "numeroSocio": "025",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "936612406",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Ricardo Miguel Sagres de Oliveira",
@@ -388,7 +563,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/hasan-johns?fm=webp&q=80&w=100",
       "numeroSocio": "026",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "968045822",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Ricardo Manuel Lima Pereira",
@@ -403,7 +585,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/herbert-fowler?fm=webp&q=80&w=100",
       "numeroSocio": "027",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "962536841",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": false,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Manuel António Torres Barros",
@@ -418,7 +607,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/jackson-reed?fm=webp&q=80&w=100",
       "numeroSocio": "028",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "961455880",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": false,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Luis Miguel Fernandes Braga",
@@ -437,7 +633,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/jay-shepard?fm=webp&q=80&w=100",
       "numeroSocio": "029",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "961629406",
+      "tipoSangue": "A+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "António José Sagres Oliveira",
@@ -452,7 +655,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/jayden-moss?fm=webp&q=80&w=100",
       "numeroSocio": "030",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "938406253",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Jorge Manuel Lima da Silva",
@@ -467,7 +677,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/jonathan-kelly?fm=webp&q=80&w=100",
       "numeroSocio": "031",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "965626458",
+      "tipoSangue": "A+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "João Agostinho da Silva Fernandes",
@@ -482,7 +699,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/jordan-burgess?fm=webp&q=80&w=100",
       "numeroSocio": "032",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "960127540",
+      "tipoSangue": "não sabe",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Ricardo Alberto Teixeira Rodrigues",
@@ -499,9 +723,16 @@
           "color": "purple"
         }
       ],
-      "avatarUrl": "https://www.untitledui.com/images/avatars/joshua-wilson?fm=webp&q=80&w=100",
+      "avatarUrl": "",
       "numeroSocio": "033",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "964710646",
+      "tipoSangue": "A+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": false
     },
     {
       "name": "João Marcelo Boucinha Barbosa",
@@ -520,7 +751,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/julius-vaughan?fm=webp&q=80&w=100",
       "numeroSocio": "034",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "926078885",
+      "tipoSangue": "A+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": false,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "André Santos Barros",
@@ -539,7 +777,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/kaden-scott?fm=webp&q=80&w=100",
       "numeroSocio": "035",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "927873526",
+      "tipoSangue": "O+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": false,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Ricardo André Baptista Gonçalves",
@@ -558,7 +803,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/koray-okumus?fm=webp&q=80&w=100",
       "numeroSocio": "036",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "968990404",
+      "tipoSangue": "O+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Eduardo Santos Amorim",
@@ -577,7 +829,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/levi-rocha?fm=webp&q=80&w=100",
       "numeroSocio": "037",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "961840473",
+      "tipoSangue": "A+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": false,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Abel Cristóvão Gonçalves Antunes",
@@ -596,7 +855,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/leyton-fields?fm=webp&q=80&w=100",
       "numeroSocio": "038",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "963744040",
+      "tipoSangue": "O+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Luis Carlos Pereira da Costa",
@@ -615,7 +881,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/liam-hood?fm=webp&q=80&w=100",
       "numeroSocio": "039",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "969889664",
+      "tipoSangue": "A+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "José Carlos Pereira de Brito",
@@ -634,7 +907,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/loki-bright?fm=webp&q=80&w=100",
       "numeroSocio": "040",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "962592184",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Diogo Tomás Maciel Lima",
@@ -653,7 +933,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/luqman-anthony?fm=webp&q=80&w=100",
       "numeroSocio": "041",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "915826023",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Pedro Miguel Gomes de Lima",
@@ -672,7 +959,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/lyle-kauffman?fm=webp&q=80&w=100",
       "numeroSocio": "042",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "966602207",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Carlos Agostinho Santos Felgueiras",
@@ -687,7 +981,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/marco-gross?fm=webp&q=80&w=100",
       "numeroSocio": "043",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "916106332",
+      "tipoSangue": "A+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": false,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Helder José Fagundes Bandeira",
@@ -702,7 +1003,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/marco-kelly?fm=webp&q=80&w=100",
       "numeroSocio": "044",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "965447853",
+      "tipoSangue": "A+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Roberta Fernanda Barroso Vieira",
@@ -717,7 +1025,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/adriana-sullivan?fm=webp&q=80&w=100",
       "numeroSocio": "045",
-      "gender": "mulher"
+      "gender": "mulher",
+      "telemovel": "925675472",
+      "tipoSangue": "O+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Andreia Raquel Barroso Vieira",
@@ -732,7 +1047,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/alesha-barry?fm=webp&q=80&w=100",
       "numeroSocio": "046",
-      "gender": "mulher"
+      "gender": "mulher",
+      "telemovel": "927857935",
+      "tipoSangue": "B+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Paulo André da Cruz Viana",
@@ -747,7 +1069,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/marvin-robbins?fm=webp&q=80&w=100",
       "numeroSocio": "047",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "934881390",
+      "tipoSangue": "A+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Diogo Emanuel Fernandes Barros",
@@ -762,7 +1091,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/maxwell-tan?fm=webp&q=80&w=100",
       "numeroSocio": "048",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "926958512",
+      "tipoSangue": "O+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Eurico Xavier Lopes Pinto",
@@ -777,7 +1113,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/mikey-lawrence?fm=webp&q=80&w=100",
       "numeroSocio": "049",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "910469803",
+      "tipoSangue": "A+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": false,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Tiago Manuel Carvalho Fernandes",
@@ -792,7 +1135,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/nic-fassbender?fm=webp&q=80&w=100",
       "numeroSocio": "050",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "965292801",
+      "tipoSangue": "AB-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Luis Miguel Lima Viana",
@@ -807,7 +1157,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/nicolas-trevino?fm=webp&q=80&w=100",
       "numeroSocio": "051",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "925169971",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": false,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Paulo Cesar Bandeira Melo",
@@ -822,7 +1179,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/nicolas-wang?fm=webp&q=80&w=100",
       "numeroSocio": "052",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "934770352",
+      "tipoSangue": "A+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "José Manuel Barros Fernandes",
@@ -837,7 +1201,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/nikolas-gibbons?fm=webp&q=80&w=100",
       "numeroSocio": "053",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "965678396",
+      "tipoSangue": "B+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": false,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Luis Filipe Caridade Amaral",
@@ -852,7 +1223,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/noah-pierre?fm=webp&q=80&w=100",
       "numeroSocio": "054",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "969451235",
+      "tipoSangue": "B+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Sergio Alexandre Lima Malheiro",
@@ -867,7 +1245,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/noel-baldwin?fm=webp&q=80&w=100",
       "numeroSocio": "055",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "964549550",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Cristovao Emanuel Nunes Araujo",
@@ -882,7 +1267,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/olly-schroeder?fm=webp&q=80&w=100",
       "numeroSocio": "056",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "960199029",
+      "tipoSangue": "A+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Nuno Filipe Fernandes Dantas",
@@ -897,7 +1289,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/orlando-diggs?fm=webp&q=80&w=100",
       "numeroSocio": "057",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "969393907",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Helder Jesus Pereira Gonçalves",
@@ -912,7 +1311,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/owen-garcia?fm=webp&q=80&w=100",
       "numeroSocio": "058",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "962647288",
+      "tipoSangue": "A+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "João Dantas Esteves",
@@ -927,7 +1333,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/owen-harding?fm=webp&q=80&w=100",
       "numeroSocio": "059",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "913428449",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Eduardo Correia Malheiro",
@@ -942,7 +1355,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/phoenix-baker?fm=webp&q=80&w=100",
       "numeroSocio": "060",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "33684404616",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Sergio Fernandes",
@@ -957,7 +1377,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/rayhan-zua?fm=webp&q=80&w=100",
       "numeroSocio": "061",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "924031605",
+      "tipoSangue": "O+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": false,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Armando Miguel Silva Ramos",
@@ -972,7 +1399,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/rory-huff?fm=webp&q=80&w=100",
       "numeroSocio": "062",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "924341048",
+      "tipoSangue": "RH-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": false,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Nicolau José Pereira Bandeira",
@@ -987,7 +1421,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/scott-clayton?fm=webp&q=80&w=100",
       "numeroSocio": "063",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "925998084",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Manuel Agostinho Pinto Pereira",
@@ -1002,7 +1443,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/stefan-sears?fm=webp&q=80&w=100",
       "numeroSocio": "064",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "964414041",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Alexandre Pereira Bandeira",
@@ -1017,7 +1465,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/youssef-roberson?fm=webp&q=80&w=100",
       "numeroSocio": "065",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "330684064321",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Ricardo Filipe da Cruz Pereira",
@@ -1032,7 +1487,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/zahir-mays?fm=webp&q=80&w=100",
       "numeroSocio": "066",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "913986063",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Sandra da Conceição do Casal Barbosa",
@@ -1047,7 +1509,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/aliah-lane?fm=webp&q=80&w=100",
       "numeroSocio": "067",
-      "gender": "mulher"
+      "gender": "mulher",
+      "telemovel": "913986063",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": false
     },
     {
       "name": "José António Ferreira",
@@ -1062,7 +1531,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/zaid-schwartz?fm=webp&q=80&w=100",
       "numeroSocio": "068",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "967706248",
+      "tipoSangue": "A-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "José Eduardo Ferreira Amorim",
@@ -1077,7 +1553,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/alisa-hester?fm=webp&q=80&w=100",
       "numeroSocio": "070",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "965400204",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "👦 David de Brito",
@@ -1092,7 +1575,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/amanda-lowery?fm=webp&q=80&w=100",
       "numeroSocio": "071",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "962592184",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": false
     },
     {
       "name": "👦 Beatriz Bandeira da Costa",
@@ -1107,7 +1597,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/amelie-bennett?fm=webp&q=80&w=100",
       "numeroSocio": "072",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "969889664",
+      "tipoSangue": "A+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": false
     },
     {
       "name": "👦 Margarida Bandeira Conde",
@@ -1122,7 +1619,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/amelie-laurent?fm=webp&q=80&w=100",
       "numeroSocio": "073",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "969889664",
+      "tipoSangue": "A+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": false
     },
     {
       "name": "Emanuel Jesus Pereira Silva",
@@ -1137,7 +1641,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/anaiah-whitten?fm=webp&q=80&w=100",
       "numeroSocio": "074",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "969506854",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": false,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Tiago Nuno Fernandes da Costa",
@@ -1152,7 +1663,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/andi-lane?fm=webp&q=80&w=100",
       "numeroSocio": "075",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "33624527255",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": false,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Carlos da Costa Macedo",
@@ -1167,7 +1685,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/angelica-wallace?fm=webp&q=80&w=100",
       "numeroSocio": "076",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "965633924",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Joana Margarida Pereira Loureiro",
@@ -1182,7 +1707,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/anita-cruz?fm=webp&q=80&w=100",
       "numeroSocio": "077",
-      "gender": "mulher"
+      "gender": "mulher",
+      "telemovel": "963409788",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Fabio Jorge Magalhães Baptista",
@@ -1197,7 +1729,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/ava-bentley?fm=webp&q=80&w=100",
       "numeroSocio": "078",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "925754314",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": false,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Manuel Agostinho da Costa Pereira",
@@ -1212,7 +1751,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/ava-wright?fm=webp&q=80&w=100",
       "numeroSocio": "079",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "913696528",
+      "tipoSangue": "A+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": false,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": false
     },
     {
       "name": "João António Sagres Esteves",
@@ -1227,7 +1773,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/ayah-wilkinson?fm=webp&q=80&w=100",
       "numeroSocio": "080",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "33631934903",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "José Maria Maciel Lima",
@@ -1242,7 +1795,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/aysha-becker?fm=webp&q=80&w=100",
       "numeroSocio": "081",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "491775405470",
+      "tipoSangue": "O-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": false,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "José António Maciel Lima",
@@ -1257,7 +1817,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/bailey-richards?fm=webp&q=80&w=100",
       "numeroSocio": "082",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "491713195312",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": false,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Vítor Hugo dos Santos de Lima",
@@ -1272,7 +1839,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/bec-ferguson?fm=webp&q=80&w=100",
       "numeroSocio": "083",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "963657706",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "👦 Leandro Freitas Batista",
@@ -1287,7 +1861,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/belle-woods?fm=webp&q=80&w=100",
       "numeroSocio": "084",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "965249627",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": false,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": false
     },
     {
       "name": "Tiago da Costa Carvalho",
@@ -1302,7 +1883,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/billie-wright?fm=webp&q=80&w=100",
       "numeroSocio": "085",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "33649683293",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": false,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Tiago Oliveira Martins Fernandes",
@@ -1317,7 +1905,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/brianna-ware?fm=webp&q=80&w=100",
       "numeroSocio": "086",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "968370993",
+      "tipoSangue": "O+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Silvino José da Silva Gonçalves",
@@ -1332,7 +1927,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/caitlyn-king?fm=webp&q=80&w=100",
       "numeroSocio": "087",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "919971998",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "João José Miranda da Silva",
@@ -1347,7 +1949,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/candice-wu?fm=webp&q=80&w=100",
       "numeroSocio": "088",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "960116717",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Agostinho da Silva Bezerra",
@@ -1362,7 +1971,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/courtney-turner?fm=webp&q=80&w=100",
       "numeroSocio": "089",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "961805284",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Nídia Adriana Gonçalves Antunes",
@@ -1377,7 +1993,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/demi-wilkinson?fm=webp&q=80&w=100",
       "numeroSocio": "090",
-      "gender": "mulher"
+      "gender": "mulher",
+      "telemovel": "925846615",
+      "tipoSangue": "O+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Nelson Alexandre da Costa Carvalho",
@@ -1392,7 +2015,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/elena-owens?fm=webp&q=80&w=100",
       "numeroSocio": "091",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "964360855",
+      "tipoSangue": "O+",
+      "joiaPaga": true,
+      "quota2025Paga": false,
+      "quota2026Paga": false,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Bruno Marcelo Dantas Lima",
@@ -1407,7 +2037,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/elisa-nishikawa?fm=webp&q=80&w=100",
       "numeroSocio": "092",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "936689537",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Vitor Manuel Lima Amorim",
@@ -1422,7 +2059,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/elsie-roy?fm=webp&q=80&w=100",
       "numeroSocio": "093",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "962071537",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Ricardo Bruno da Rocha Torres",
@@ -1437,7 +2081,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/erica-wyatt?fm=webp&q=80&w=100",
       "numeroSocio": "094",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "918451893",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": false,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Micael Filipe Alves Cerqueira",
@@ -1452,7 +2103,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/eva-bond?fm=webp&q=80&w=100",
       "numeroSocio": "095",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "33635713537",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": false,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Avelino Fernandes Dantas",
@@ -1467,7 +2125,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/eve-leroy?fm=webp&q=80&w=100",
       "numeroSocio": "096",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "4917630792846",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Ivone Marlene Pereira Amorim",
@@ -1482,7 +2147,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/fleur-cook?fm=webp&q=80&w=100",
       "numeroSocio": "097",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "924061761",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": false,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Joaquim Manuel da Silva Costa",
@@ -1497,7 +2169,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/florence-shaw?fm=webp&q=80&w=100",
       "numeroSocio": "098",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "664892138",
+      "tipoSangue": "-",
+      "joiaPaga": false,
+      "quota2025Paga": false,
+      "quota2026Paga": false,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": false
     },
     {
       "name": "Pedro André Bandeira da Costa",
@@ -1512,7 +2191,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/freya-browning?fm=webp&q=80&w=100",
       "numeroSocio": "099",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "966563241",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Jorge Manuel Norton Caixeiro",
@@ -1527,7 +2213,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/genevieve-mclean?fm=webp&q=80&w=100",
       "numeroSocio": "100",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "934886688",
+      "tipoSangue": "O+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": false,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Nuno Ricardo Reis Rodrigues",
@@ -1542,7 +2235,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/harriet-rojas?fm=webp&q=80&w=100",
       "numeroSocio": "101",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "644914079",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": false,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Rita sofia Duarte Cabreiro",
@@ -1557,7 +2257,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/isla-allison?fm=webp&q=80&w=100",
       "numeroSocio": "102",
-      "gender": "mulher"
+      "gender": "mulher",
+      "telemovel": "664892138",
+      "tipoSangue": "A+",
+      "joiaPaga": false,
+      "quota2025Paga": false,
+      "quota2026Paga": false,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": false
     },
     {
       "name": "Marco André Faria da Costa Nogueira",
@@ -1572,7 +2279,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/isobel-carroll?fm=webp&q=80&w=100",
       "numeroSocio": "103",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "926775921",
+      "tipoSangue": "O+",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": false,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Eusébio Fernando Slagado Costa",
@@ -1587,7 +2301,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/isobel-fuller?fm=webp&q=80&w=100",
       "numeroSocio": "104",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "931724025",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Hélder Fernando Barros Costa",
@@ -1602,7 +2323,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/jaya-willis?fm=webp&q=80&w=100",
       "numeroSocio": "105",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "914873605",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": true,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "João José da Costa Gonçalves",
@@ -1617,7 +2345,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/jessie-meyton?fm=webp&q=80&w=100",
       "numeroSocio": "106",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "33620748413",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": true,
+      "quota2026Paga": false,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Rui Ferreira Batista",
@@ -1632,7 +2367,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/kaitlin-hale?fm=webp&q=80&w=100",
       "numeroSocio": "107",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "41782514708",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": false,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Elsa Cerqueira",
@@ -1647,7 +2389,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/kari-rasmussen?fm=webp&q=80&w=100",
       "numeroSocio": "108",
-      "gender": "mulher"
+      "gender": "mulher",
+      "telemovel": "965421500",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": false,
+      "quota2026Paga": true,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "👦 Clara Cerqueira Fernandes",
@@ -1662,7 +2411,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/kate-morrison?fm=webp&q=80&w=100",
       "numeroSocio": "109",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "965421500",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": false,
+      "quota2026Paga": true,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": false
     },
     {
       "name": "👦 Carolina Cerqueira Fernandes",
@@ -1677,7 +2433,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/katherine-moss?fm=webp&q=80&w=100",
       "numeroSocio": "110",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "965421500",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": false,
+      "quota2026Paga": true,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": false
     },
     {
       "name": "Júlio Alves Araújo",
@@ -1692,7 +2455,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/katy-fuller?fm=webp&q=80&w=100",
       "numeroSocio": "111",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "918499780",
+      "tipoSangue": "A+",
+      "joiaPaga": true,
+      "quota2025Paga": false,
+      "quota2026Paga": true,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "👦 Lara Filipa Lima Loureiro",
@@ -1707,7 +2477,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/kelly-williams?fm=webp&q=80&w=100",
       "numeroSocio": "112",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "924103988",
+      "tipoSangue": "O+",
+      "joiaPaga": true,
+      "quota2025Paga": false,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": false
     },
     {
       "name": "João Ricardo Barros Loureiro",
@@ -1722,7 +2499,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/kelsey-lowe?fm=webp&q=80&w=100",
       "numeroSocio": "113",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "924103988",
+      "tipoSangue": "O+",
+      "joiaPaga": true,
+      "quota2025Paga": false,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Andreia Vieira de Sousa",
@@ -1737,7 +2521,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/kyla-clay?fm=webp&q=80&w=100",
       "numeroSocio": "114",
-      "gender": "mulher"
+      "gender": "mulher",
+      "telemovel": "969217552",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": false,
+      "quota2026Paga": true,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Hélder Dantas Ferreira",
@@ -1752,7 +2543,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/lana-steiner?fm=webp&q=80&w=100",
       "numeroSocio": "115",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "917133764",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": false,
+      "quota2026Paga": true,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Jessica Mariza Fernandes de Brito",
@@ -1767,7 +2565,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/lily-rose-chedjou?fm=webp&q=80&w=100",
       "numeroSocio": "116",
-      "gender": "mulher"
+      "gender": "mulher",
+      "telemovel": "961367739",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": false,
+      "quota2026Paga": true,
+      "kitEntregue": true,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "Eduardo César Pereira da Cunha",
@@ -1782,7 +2587,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/lola-sanders?fm=webp&q=80&w=100",
       "numeroSocio": "117",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "698690685",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": false,
+      "quota2026Paga": true,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": false
     },
     {
       "name": "Edouard Norton",
@@ -1797,7 +2609,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/lori-bryson?fm=webp&q=80&w=100",
       "numeroSocio": "118",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "968973911",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": false,
+      "quota2026Paga": true,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     },
     {
       "name": "João Rafael Bandeira Carvalhosa",
@@ -1812,7 +2631,14 @@
       ],
       "avatarUrl": "https://www.untitledui.com/images/avatars/lucy-bond?fm=webp&q=80&w=100",
       "numeroSocio": "119",
-      "gender": "homem"
+      "gender": "homem",
+      "telemovel": "939104772",
+      "tipoSangue": "-",
+      "joiaPaga": true,
+      "quota2025Paga": false,
+      "quota2026Paga": true,
+      "kitEntregue": false,
+      "adicionadoWhatsApp": true
     }
   ],
   "total": 118

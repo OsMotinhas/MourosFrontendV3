@@ -2,8 +2,6 @@
 
 import { useMemo, useState } from "react";
 import {
-  Edit01,
-  Trash01,
   Check,
   UserX01,
   ClockSnooze,
@@ -13,22 +11,64 @@ import type { SortDescriptor } from "react-aria-components";
 import { PaginationCardMinimal } from "@/components/application/pagination/pagination";
 import { Table, TableCard, TableRowActionsDropdown } from "@/components/application/table/table";
 import teamMembers from "@/components/application/table/team-members.json";
-import { Avatar } from "@/components/base/avatar/avatar";
+import {AvatarLabelGroup} from "@/components/base/avatar/avatar-label-group";
 import type { BadgeTypes } from "@/components/base/badges/badge-types";
 import { Badge, type BadgeColor, BadgeWithIcon } from "@/components/base/badges/badges";
-import { ButtonUtility } from "@/components/base/buttons/button-utility";
 import {Tooltip, TooltipTrigger} from "@/components/base/tooltip/tooltip";
+import { AlertDialogDestructive } from "@/components/modals/deleteModal";
+import { DropdownIcon } from "@/components/dropdownMenuIcon";
+
+const normalizeSearchText = (value: unknown): string => {
+  if (value === null || value === undefined) {
+    return "";
+  }
+
+  if (Array.isArray(value)) {
+    return value.map((entry) => normalizeSearchText(entry)).join(" ");
+  }
+
+  if (typeof value === "object") {
+    return Object.values(value as Record<string, unknown>)
+      .map((entry) => normalizeSearchText(entry))
+      .join(" ");
+  }
+
+  return String(value);
+};
+
+const formatForSearch = (value: string): string =>
+  value
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .trim();
 
 export const Table01DividerLineSm = () => {
-    const PAGE_SIZE = 100;
+    const PAGE_SIZE = 30;
     const [sortDescriptor, setSortDescriptor] = useState<SortDescriptor>({
       column: "numeroSocio",
       direction: "ascending",
     });
+    const [searchQuery, setSearchQuery] = useState("");
     const [page, setPage] = useState(1);
+    const [isDeleteDialogOpen, setIsDeleteDialogOpen] = useState(false);
+    const [memberToDelete, setMemberToDelete] = useState<string | null>(null);
+
+    const filteredItems = useMemo(() => {
+      const normalizedQuery = formatForSearch(searchQuery);
+
+      if (!normalizedQuery) {
+        return teamMembers.items;
+      }
+
+      return teamMembers.items.filter((item) => {
+        const searchableText = formatForSearch(normalizeSearchText(item));
+        return searchableText.includes(normalizedQuery);
+      });
+    }, [searchQuery]);
 
     const sortedItems = useMemo(() => {
-        return [...teamMembers.items].sort((a, b) => {
+        return [...filteredItems].sort((a, b) => {
             const first = a[sortDescriptor.column as keyof typeof a];
             const second = b[sortDescriptor.column as keyof typeof b];
 
@@ -48,7 +88,7 @@ export const Table01DividerLineSm = () => {
 
             return 0;
         });
-    }, [sortDescriptor]);
+    }, [filteredItems, sortDescriptor]);
     const totalPages = Math.max(1, Math.ceil(sortedItems.length / PAGE_SIZE));
     const currentPage = Math.min(page, totalPages);
 
@@ -67,6 +107,24 @@ export const Table01DividerLineSm = () => {
       setPage(1);
     };
 
+    const handleSearchChange = (nextQuery: string) => {
+      setSearchQuery(nextQuery);
+      setPage(1);
+    };
+
+    const handleOpenDeleteDialog = (memberName: string) => {
+      setMemberToDelete(memberName);
+      setIsDeleteDialogOpen(true);
+    };
+
+    const handleDelete = () => {
+      if (memberToDelete) {
+        alert(`Delete ${memberToDelete}`);
+      }
+      setIsDeleteDialogOpen(false);
+      setMemberToDelete(null);
+    };
+
     return (
       <TableCard.Root size="sm">
         <TableCard.Header
@@ -74,7 +132,11 @@ export const Table01DividerLineSm = () => {
           badge={`${sortedItems.length}`}
           contentTrailing={
             <div className="absolute top-5 right-4 md:right-6">
-              <TableRowActionsDropdown />
+              <TableRowActionsDropdown
+                query={searchQuery}
+                placeholder="Pesquisar membros..."
+                onQueryChange={handleSearchChange}
+              />
             </div>
           }
         />
@@ -100,11 +162,15 @@ export const Table01DividerLineSm = () => {
             />
             <Table.Head id="status" label="Status" allowsSorting />
             <Table.Head
-              id="email"
-              label="Email"
-              allowsSorting
+              id="telemovel"
+              label="Nº Telemóvel"
               className="md:hidden xl:table-cell"
             />
+            <Table.Head id="joiaPaga" label="Jóia" allowsSorting />
+            <Table.Head id="quota2025Paga" label="Quota 2025" allowsSorting />
+            <Table.Head id="quota2026Paga" label="Quota 2026" allowsSorting />
+            <Table.Head id="adicionadoWhatsApp" label="WhatsApp" allowsSorting />
+            <Table.Head id="kitEntregue" label="Kit" allowsSorting />
             <Table.Head id="tipo" label="Tipo" />
             <Table.Head id="actions" />
           </Table.Header>
@@ -117,10 +183,13 @@ export const Table01DividerLineSm = () => {
                 </Table.Cell>
                 <Table.Cell>
                   <div className="flex items-center gap-2">
-                    <Avatar src={item.avatarUrl} alt={item.name} size="sm" />
-                    <p className="text-sm font-medium whitespace-nowrap text-foreground">
-                      {item.name}
-                    </p>
+                    <AvatarLabelGroup
+                      size="md"
+                      src={item.avatarUrl}
+                      alt={item.name}
+                      title={item.name}
+                      subtitle={item.tipo.map((team) => team.name).join(", ")}
+                    />
                   </div>
                 </Table.Cell>
                 <Table.Cell>
@@ -191,7 +260,22 @@ export const Table01DividerLineSm = () => {
                   )}
                 </Table.Cell>
                 <Table.Cell className="whitespace-nowrap md:hidden xl:table-cell">
-                  {item.email}
+                  {item.telemovel}
+                </Table.Cell>
+                <Table.Cell className="whitespace-nowrap">
+                  {String(item.joiaPaga)}
+                </Table.Cell>
+                <Table.Cell className="whitespace-nowrap">
+                  {String(item.quota2025Paga)}
+                </Table.Cell>
+                <Table.Cell className="whitespace-nowrap">
+                  {String(item.quota2026Paga)}
+                </Table.Cell>
+                <Table.Cell className="whitespace-nowrap">
+                  {String(item.adicionadoWhatsApp)}
+                </Table.Cell>
+                <Table.Cell className="whitespace-nowrap">
+                  {String(item.kitEntregue)}
                 </Table.Cell>
                 <Table.Cell>
                   <div className="flex gap-1">
@@ -214,17 +298,9 @@ export const Table01DividerLineSm = () => {
                 </Table.Cell>
                 <Table.Cell className="px-3">
                   <div className="flex justify-end gap-0.5">
-                    <ButtonUtility
-                      size="xs"
-                      color="tertiary"
-                      tooltip="Delete"
-                      icon={Trash01}
-                    />
-                    <ButtonUtility
-                      size="xs"
-                      color="tertiary"
-                      tooltip="Edit"
-                      icon={Edit01}
+                    <DropdownIcon
+                      item={item}
+                      onDelete={handleOpenDeleteDialog}
                     />
                   </div>
                 </Table.Cell>
@@ -239,6 +315,18 @@ export const Table01DividerLineSm = () => {
           total={totalPages}
           onPageChange={handlePageChange}
           className="px-4 py-3 md:px-5 md:pt-3 md:pb-4"
+        />
+
+        <AlertDialogDestructive
+          open={isDeleteDialogOpen}
+          onOpenChange={(open) => {
+            setIsDeleteDialogOpen(open);
+            if (!open) {
+              setMemberToDelete(null);
+            }
+          }}
+          memberName={memberToDelete ?? undefined}
+          onConfirm={handleDelete}
         />
       </TableCard.Root>
     );

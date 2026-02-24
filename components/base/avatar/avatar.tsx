@@ -85,14 +85,14 @@ export const Avatar = ({
         }
 
         if (initials) {
-            return <span className={cx("text-muted-foreground", styles[size].initials)}>{initials}</span>;
+            return <span className={cx("text-quaternary", styles[size].initials)}>{initials}</span>;
         }
 
         if (PlaceholderIcon) {
-            return <PlaceholderIcon className={cx("text-muted-foreground", styles[size].icon)} />;
+            return <PlaceholderIcon className={cx("text-fg-quaternary", styles[size].icon)} />;
         }
 
-        return placeholder || <User01 className={cx("text-muted-foreground", styles[size].icon)} />;
+        return placeholder || <User01 className={cx("text-fg-quaternary", styles[size].icon)} />;
     };
 
     const renderBadgeContent = () => {

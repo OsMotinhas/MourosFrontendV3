@@ -46,8 +46,8 @@ const data = {
           url: "/table1",
         },
         {
-          title: "Starred",
-          url: "/",
+          title: "Perfil",
+          url: "/perfil",
         },
         {
           title: "Settings",

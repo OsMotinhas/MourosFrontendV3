@@ -22,8 +22,8 @@ interface AvatarOnlineIndicatorProps {
 export const AvatarOnlineIndicator = ({ size, status, className }: AvatarOnlineIndicatorProps) => (
     <span
         className={cx(
-            "absolute right-0 bottom-0 rounded-full ring-[1.5px] ring-bg-card",
-            status === "online" ? "bg-fg-success-secondary" : "bg-fg-disabled_subtle",
+            "absolute right-0 bottom-0 rounded-full ring-[1.5px] ring-background",
+            status === "online" ? "bg-fg-success-secondary" : "bg-muted-foreground/40",
             sizes[size],
             className,
         )}

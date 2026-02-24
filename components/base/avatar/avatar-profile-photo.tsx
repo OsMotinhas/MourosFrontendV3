@@ -77,7 +77,7 @@ export const AvatarProfilePhoto = ({
         if (initials) {
             return (
                 <div className={cx("flex size-full items-center justify-center rounded-full bg-muted ring-1 ring-border", styles[size].content)}>
-                    <span className={cx("text-muted-foreground", styles[size].initials)}>{initials}</span>
+                    <span className={cx("text-quaternary", styles[size].initials)}>{initials}</span>
                 </div>
             );
         }
@@ -103,7 +103,7 @@ export const AvatarProfilePhoto = ({
         }
 
         if (verified) {
-            return <VerifiedTick size={tickSizeMap[size]} className={cx("absolute", styles[size].badge)} />;
+            return <VerifiedTick size={tickSizeMap[size]} className={cx("absolute z-20 drop-shadow-sm", styles[size].badge)} />;
         }
 
         return badge;
@@ -112,7 +112,7 @@ export const AvatarProfilePhoto = ({
     return (
         <div
             className={cx(
-                "relative flex shrink-0 items-center justify-center rounded-full bg-card ring-1 ring-border",
+                "relative flex shrink-0 items-center justify-center rounded-full bg-background ring-1 ring-border",
                 styles[size].root,
                 (!src || isFailed) && styles[size].rootWithPlaceholder,
                 className,

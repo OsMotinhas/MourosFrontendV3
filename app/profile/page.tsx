@@ -29,7 +29,7 @@ export default function Table1() {
                         verified
                         size="lg"
                         alt="João Barbosa"
-                        src="https://www.untitledui.com/images/avatars/olivia-rhye?fm=webp&q=80"
+                        src="https://www.untitledui.com/images/avatars/ethan-valdez?"
                       />
                     </div>
                   </div>
@@ -41,7 +41,7 @@ export default function Table1() {
                           João Barbosa
                         </h1>
                         <p className="mt-1 text-sm text-muted-foreground sm:text-base">
-                          joao@email.com
+                          #034
                         </p>
                       </div>
 
@@ -66,7 +66,7 @@ export default function Table1() {
                   </div>
                 </div>
                 <div className="w-full h-auto p-10">
-                    <ModalEditProfile/>
+                  <ModalEditProfile />
                 </div>
               </div>
             </div>

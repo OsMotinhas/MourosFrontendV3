@@ -47,7 +47,7 @@ const data = {
         },
         {
           title: "Perfil",
-          url: "/perfil",
+          url: "/profile",
         },
         {
           title: "Settings",
